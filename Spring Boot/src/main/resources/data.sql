@@ -1,0 +1,3 @@
+INSERT INTO project (nome, descricao, categoria, status) VALUES ('NeoRural', 'Trabalha com práticas agroflorestais com o objetivo de reflorestar a área em que está inserido.', 'Social', 'Em execução');
+INSERT INTO project (nome, descricao, categoria, status) VALUES ('Associação de Biodinâmica', 'Trabalha com Agricultura Biodinâmica, que consiste em um sistema de produção de base ecológica que não utiliza adubos químicos, venenos herbicidas, sementes transgênicas, antibióticos ou hormônios.', 'Produção', 'Finalizado');
+INSERT INTO project (nome, descricao, categoria, status) VALUES ('Sítio Galera', 'Tem como proposta vivenciar a vida no campo de forma mais adaptada às pessoas que vivem na cidade.', 'Social', 'Cancelado');
